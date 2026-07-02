@@ -105,7 +105,7 @@ namespace offsets {
 
     namespace FakeDataModel {
         inline constexpr uintptr_t DataModelDeleterPointer = 0x7BE9270;
-        inline constexpr uintptr_t Pointer = 0x7BE9278;
+        inline constexpr uintptr_t Pointer = 0x7c3d2e8;
         inline constexpr uintptr_t ToRealDataModel = 0x1D0;
     }
 
